@@ -7,3 +7,11 @@
 > * BAJ_5800_성적통계
 > 
 > * SWEA_flatten
+
+#### [🔥 0824 _ 스택/큐 _ 코드리뷰](https://github.com/oiosu/Algorithm_J/blob/main/0817_codingtest/0817_%EC%95%8C%EC%A1%B4_%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%82%B4%EC%9A%A9.md) 
+
+> * BAJ_10799_ 쇠막대기
+> 
+> * BAJ_9455_ 박스
+> 
+> * BAJ_14467_ 소가 길을 건너간 이유 (1)
