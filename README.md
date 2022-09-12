@@ -9,7 +9,8 @@
 > * [SWEA_flatten](https://github.com/oiosu/Algorithm_J/blob/main/0817_codingtest/SWEA_flatten.py)
 >
 > * [0817 - 코드리뷰 회고록](https://github.com/oiosu/Algorithm_J/blob/main/0817_codingtest/0817_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)
-        
+
+---
 
 #### [🔥 0824 _ 코드리뷰](https://github.com/oiosu/Algorithm_J/blob/main/0817_codingtest/0817_%EC%95%8C%EC%A1%B4_%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%82%B4%EC%9A%A9.md) 
 
@@ -18,6 +19,8 @@
 > * [BAJ_9455_ 박스](https://github.com/oiosu/Algorithm_J/blob/main/0824_codingtest/%EB%B0%95%EC%8A%A4.py)
 > 
 > * [BAJ_14467_ 소가 길을 건너간 이유 (1)](https://github.com/oiosu/Algorithm_J/blob/main/0824_codingtest/%EC%86%8C%EA%B8%B8%EC%9D%B4%EC%9C%A0.py)
+
+---
 
 
 #### [🔥 0831 _ 코드리뷰](https://github.com/oiosu/Algorithm_J/tree/main/0831_codingtest) 
@@ -29,6 +32,9 @@
 > * [몬스터트럭](https://github.com/oiosu/Algorithm_J/blob/main/0831_codingtest/%EB%AA%AC%EC%8A%A4%ED%84%B0%ED%8A%B8%EB%9F%AD.py)
 > 
 > * [회사에 있는 사람](https://github.com/oiosu/Algorithm_J/blob/main/0831_codingtest/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%EC%82%AC%EB%9E%8C.py)
+
+
+---
 
 
 #### [🔥 0906_ 코드리뷰](https://github.com/oiosu/Algorithm_J/tree/main/9%EC%9B%94/0906_codingtest) 
