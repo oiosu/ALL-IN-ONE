@@ -47,3 +47,12 @@
 > 
 > * [최빈수 구하기](https://github.com/oiosu/Algorithm_J/blob/main/9%EC%9B%94/0906_codingtest/SWEA_%EC%B5%9C%EB%B9%88%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
+
+#### [🔥 0914 _ 코드리뷰](https://github.com/oiosu/Algorithm_J/tree/main/0831_codingtest) 
+
+> * 숫자카드2
+
+> * 구명보트 
+
+> * 꽃길 
+
